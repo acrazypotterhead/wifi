@@ -94,7 +94,7 @@ fullscreen = 0
 android.permissions = ACCESS_NETWORK_STATE,CHANGE_WIFI_STATE,ACCESS_WIFI_STATE,INTERNET,ACCESS_FINE_LOCATION,ACCESS_COARSE_LOCATION
 
 # (int) Target Android API, should be as high as possible.
-android.api = 29
+android.api = 31
 
 # (int) Minimum API your APK will support.
 #android.minapi = 21
